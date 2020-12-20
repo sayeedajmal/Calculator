@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/home/white-cap/JavaFx/**/*.jar"
+        ],
+    }
+}
