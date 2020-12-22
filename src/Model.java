@@ -1,7 +1,7 @@
-package Calculator;
+package src;
 
 public class Model {
-        public long calculate(long number1, long number2, String operator) {
+        public double calculate(Double number1, Double number2, String operator) {
                 switch (operator) {
                         case "+":
                                 return number1 + number2;

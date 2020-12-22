@@ -6,19 +6,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Launch Calculator",
-      "request": "launch",
-      "mainClass": "Calculator.Calculator",
-      "projectName": "JDBC_c8881593"
-    },
-    {
-      "type": "java",
-      "name": "Simple Java",
-      "request": "launch",
-      "mainClass": ""
-    },
-    {
-      "type": "java",
       "name": "JavaFx",
       "request": "launch",
       "mainClass": "",
